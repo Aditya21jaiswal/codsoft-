@@ -1,0 +1,2 @@
+# CodSoft.
+simpal calculater
